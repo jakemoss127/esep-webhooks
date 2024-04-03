@@ -9,6 +9,8 @@
   "author": "Jacob Moss",
   "license": "ISC",
   "dependencies": {
-    "aws-xray-sdk": "^3.6.0"
+    "aws-xray-sdk": "^3.6.0",
+    "https": "^1.0.0",
+    "url": "^0.11.3"
   }
 }
